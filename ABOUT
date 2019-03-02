@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+        <style>
+
+                ul {
+
+                        list-style-type:none;
+
+                        margin: 0;
+
+                        padding: 0;
+
+                        overflow: hidden;
+
+                        background-color: #333;
+
+                }
+
+                li {
+
+                        float: left;
+
+                }
+
+                
+
+                li a:hover{
+
+                        background-color: #111
+
+                }
+
+                
+
+                li a{
+
+                        padding: 14px 16px;
+
+                        text-align: center;
+
+                        display: block;
+
+                        color: white;
+
+                        text-decoration:none;
+
+                }
+
+        </style>
+
+</head>
+
+<body>
+
+        <ul>
+
+
+
+				<li><a href="home.html">Home</a></li>
+
+                <li><a href="news.html">News</a></li>
+
+                <li><a href="contact.html">Contact</a></li>
+
+                <li><a href="about.html">About</a></li>
+
+        </ul>
+		
+		<h1 style= "color: Red;" align ="center">About</hl>
+		
+		<a href = "http://www.chillbubbletea.com/" style= "" >
+		<img width="26%" height="20%" src="https://res-4.cloudinary.com/dostuff-media/image/upload//w_1200,q_75,c_limit,f_auto/v1477432148/page-image-7899-4ea7238e-75b1-4815-866c-149b0b2cc1d1.jpg"> 
+		<span class= "blue">
+
+
+</body>
+
+
+
+</html>
